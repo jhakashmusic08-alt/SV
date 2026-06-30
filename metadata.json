@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ST Digital Free",
+  "description": "Free global music distribution for independent artists. Distribute your music to Spotify, JioSaavn, Wynk, YT Music, and Apple Music for free while keeping 100% royalties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
